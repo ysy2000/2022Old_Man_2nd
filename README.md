@@ -1,2 +1,2 @@
-# 2022Old_Man_2nd
-retry for Summer Annual Conference of IEIE, 2022
+# AIHack2021_CC
+이전거 안돼서 새로운 모델!!
